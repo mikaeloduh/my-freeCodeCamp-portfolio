@@ -24,3 +24,5 @@ program9.js - JUGGLING ASYNC
 program10.js - TIME SERVER
 
 program11.js - FILE SERVER
+
+program12.js - HTTP UPPERCASERER
