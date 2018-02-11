@@ -1,6 +1,6 @@
 
 var http = require("http");
-var concat = require('concat-stream');
+var concat = require("concat-stream");
 
 var url1 = process.argv[2];
 var url2 = process.argv[3];

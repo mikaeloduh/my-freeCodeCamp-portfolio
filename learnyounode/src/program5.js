@@ -1,5 +1,5 @@
-var fs = require('fs');
-var path = require('path');
+var fs = require("fs");
+var path = require("path");
 
 var ext = "." + process.argv[3];
 

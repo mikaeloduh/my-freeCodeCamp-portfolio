@@ -1,4 +1,4 @@
-var fs = require('fs');
+var fs = require("fs");
 var num = undefined;
 
 function read(callback) {
