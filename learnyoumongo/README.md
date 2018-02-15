@@ -1,6 +1,6 @@
 #Learn MongoDB Exercise
 
-My MongoDB Exercise ([learnyoumongo](https://github.com/evanlucas/learnyoumongo)) solutions
+My MongoDB Exercise [learnyoumongo](https://github.com/evanlucas/learnyoumongo) solutions
 
 
 solution3.js - FIND
