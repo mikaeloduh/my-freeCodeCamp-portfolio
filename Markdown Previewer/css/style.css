@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: block;
+  margin-top: 40px;
+}
+
+.left {
+  height: 500px;
+}
+.left > textarea {
+  padding: 0;
+  margin: 0;
+	overflow: auto;
+  height: 498px;
+  width: 100%;
+}
+
+.right {
+  height: 500px;
+}
+.right > div {
+  text-align: left;
+}
