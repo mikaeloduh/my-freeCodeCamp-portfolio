@@ -1,4 +1,4 @@
-var mongodb=require("mongodb").MongoClient;
+var mongodb = require("mongodb");
 var mongoClient = mongodb.MongoClient;
 
 var url = "mongodb://localhost:27017/learnyoumongo";
