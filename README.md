@@ -1,4 +1,4 @@
-# My freeCodeCamp Profolio
+# My freeCodeCamp Portfolio
 
 ## Front End Development Certification
 
