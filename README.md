@@ -57,3 +57,7 @@
 3. [URL Shortener Microservice](https://github.com/mikaeloduh/url-shortener-microservice)
 4. [Image Search Abstraction Layer](https://github.com/mikaeloduh/file-metadata-microservice)
 5. [File Metadata Microservice](https://github.com/mikaeloduh/image-search-abstraction-layer)
+
+### Full-Stack Web Applications
+
+1. [Build a Voting App](https://github.com/mikaeloduh/voting-app-fullstack)
